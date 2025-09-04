@@ -1,4 +1,4 @@
-export const YOUTUBE_API_KEY = 'AIzaSyDwF0zdzOFVJ5bZ19S2cCQ95F4PVBu9nFY';
+export const YOUTUBE_API_KEY = 'You_YouTube_API';
 export const YOUTUBE_BASE_URL = 'https://www.googleapis.com/youtube/v3';
 
 export const YOUTUBE_ENDPOINTS = {
